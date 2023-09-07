@@ -11,6 +11,8 @@ Hi all, Data Science is my passion!
 
 • Infection Prevention/outbreak response/ disease surveillance/ policy reforms/ digital health innovation
 
-• Skills: Excel, SQL, Power Bi, Tableau, R, Qualtrics and other software for data analysis, visualization and survey data collection/ report writing.
+• Skills: Excel, SQL, Power Bi, Tableau, R, Qualtrics and other software for data analysis, visualization and survey data collection/ report writing. See below my Tableau Public Profile
 
-• Currently enrolled at Harvard Business School Online and UC Berkeley Data Analytics boot camp
+https://public.tableau.com/app/profile/beenish.mehboob 
+
+• Currently enrolled at Stanford University Online and UC Berkeley Data Analytics boot camp
