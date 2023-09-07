@@ -11,7 +11,7 @@ Hi all, Data Science is my passion!
 
 • Infection Prevention/outbreak response/ disease surveillance/ policy reforms/ digital health innovation
 
-• Skills: Excel, SQL, Power Bi, Tableau, R, Qualtrics and other software for data analysis, visualization and survey data collection/ report writing. See below my Tableau Public Profile
+• Skills: Excel, SQL, Power Bi, Tableau, R, Qualtrics and other software for data analysis, visualization and survey data collection/ report writing/ Machine Learning. See below my Tableau Public Profile
 
 https://public.tableau.com/app/profile/beenish.mehboob 
 
