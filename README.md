@@ -15,6 +15,4 @@ Hi all, Data Science is my passion!
 
 https://public.tableau.com/app/profile/beenish.mehboob 
 
-• Currently enrolled at Stanford University Online and UC Berkeley Data Analytics boot camp
-
-• Me and my team won the Next Gen Leaders Change Maker Award for 2023 ! at PMI Project Management Institute JAM Challenge 
+• Currently enrolled at Stanford University Online and UC Berkeley Data Analytics boot camp, me and my team won the Next Gen Leaders Change Maker Award for 2023 ! at PMI Project Management Institute JAM Challenge 
