@@ -5,7 +5,7 @@ Hi all, Data Science is my passion!
 
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science)
 
-• Skilled in monitoring and evaluation, currently working as an evaluation specialist and a member of the American Evaluation Association. I am also a member of the OPEN Oregon Program Evaluation Network and serve as the Events Manager at OPEN Network.
+• Skilled in program evaluation, currently working as an evaluation specialist and a member of the American Evaluation Association. I am also a member of the OPEN Oregon Program Evaluation Network and serve as the Events Manager at OPEN Network.
 
 • Proficient in data analysis, policy analysis, program implementation, logistic regression, forecasting, infectious disease modeling, and grant writing using data analysis and policy formulation based on data (data-driven decision making).
 
