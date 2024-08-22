@@ -3,6 +3,8 @@ Introduction:
 
 Hi all, Data Science is my passion!
 
+People used to call me "bhola" because of my innocence :) I think innocent! and naiive 
+
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science)
 
 • Skilled in program evaluation, currently working as an evaluation specialist and a member of the American Evaluation Association. I am also a member of the OPEN Oregon Program Evaluation Network and serve as the Events Manager at OPEN Network.
