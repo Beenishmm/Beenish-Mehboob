@@ -3,7 +3,7 @@ Introduction:
 
 Hi all, Data Science is my passion!
 
-People used to call me "bhola" because of my innocence :) I think innocent! and naiive (I think because of my ADHD) after robbery and car accident I also faced PTSD (Post traumatic stress disorder) :/. It took me two years to return back to working again :/
+People used to call me "bhola" because of my innocence :) I think innocent! and naiive (I think because of my ADHD) after robbery and car accident I also faced PTSD (Post traumatic stress disorder) :/. It took me two years to return back to working again :/ I am still scared to drive on my own and have severe backpain
 
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science)
 
