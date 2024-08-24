@@ -3,7 +3,7 @@ Introduction:
 
 Hi all, Data Science is my passion!
 
-• People used to call me "bhola" (Bholenath in hindi) because of my innocence :) I think innocent! and naiive (I think because of my ADHD)
+• People used to call me "bhola" (Bhole in hindi) because of my innocence :) I think innocent! and naiive (I think because of my ADHD)
 
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science)
 
