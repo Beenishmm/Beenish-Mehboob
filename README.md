@@ -3,7 +3,7 @@ Introduction:
 
 Hi all, Data Science is my passion!
 
-• People used to call me 'Bhola' (Bhole in Hindi) because of my innocence :). I think I was innocent and naïve, probably due to my ADHD. After my father passed away, our single mom raised us. She really took good care of us, and the small shop my mom had helped us a lot. I am thankful to the Presbyterian Church and especially to Pastor Matt and his family for their great support! I like going to church every Sunday!" Thanks to Bob our veteran neighbor for being so nice!
+• People used to call me 'Bhola' (Bhole in Hindi) because of my innocence :). I think I am innocent and naïve, probably due to my ADHD. After my father passed away, our single mom raised us. She really took good care of us, and the small shop my mom had helped us a lot. I am thankful to the Presbyterian Church and especially to Pastor Matt and his family for their great support! I like going to church every Sunday!" Thanks to Bob our veteran neighbor for being so nice!
 ![Screenshot (8262)](https://github.com/user-attachments/assets/f76b0405-5ee4-44a4-b63f-27fc31b9e8db)
 
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science)
