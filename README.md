@@ -1,7 +1,7 @@
 # Beenish-Mehboob
 Introduction:
 
-Hi all, Data Science is my passion! I have put my heart and soul into building my career, and as a U.S. graduate with two Master's degrees from Harvard and Brandeis University, a UC Berkeley boot camp graduate, and a NARCH fellowship recipient, I hope to continue making positive contributions to society. Going on Sunday's at Columbia presbyterian church! I have joined the women group at church excited and happy :)
+Hi all, Data Science is my passion! 
 
 
 ![Screenshot (8262)](https://github.com/user-attachments/assets/f76b0405-5ee4-44a4-b63f-27fc31b9e8db)
