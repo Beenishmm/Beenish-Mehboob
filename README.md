@@ -3,7 +3,7 @@ Introduction:
 
 Hi all, Data Science is my passion!
 
-• I am thankful to the Presbyterian Church and especially to Pastor Matt and his family for their great support! I like going to church every Sunday!" Thanks to Bob our veteran neighbor for being so nice!
+
 ![Screenshot (8262)](https://github.com/user-attachments/assets/f76b0405-5ee4-44a4-b63f-27fc31b9e8db)
 
 • Selected as a WiDS Ambassador for data science 2023 (I am an ambassador for the Women in Data Science) thanks to Shelly! and WiDS program to help women like me!
