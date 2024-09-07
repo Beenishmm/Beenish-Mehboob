@@ -2,7 +2,7 @@
 Introduction:
 
 Hi all, Data Science is my passion! I have MSc in health policy and Management from Brandeis University and MPH from Harvard University in addition to this I got two fellowships as well as finished my UC Berkley Bootcamp data analytics and visualization. I currently work for SAMHSA and IHS, US CDC grants and I regularly go to church on Sundays I have put my heart and soul in my career in the US!
-Jack Dennerlein was my mentor for NIOSH ergonomics Minority Mentorship Program at Harvard University. I worked on frontlines of polio for 6 years in very tough and challenging situations.  Glad now I am making positive contibutions in US working for NARA Northwest.
+Jack Dennerlein was my mentor for NIOSH ergonomics Minority Mentorship Program at Harvard University. I worked on frontlines of polio with WHO for 6 years in very tough and challenging situations. I alos worked for USAID PAIMAN and Aga Khan University NIGRAAN project desinged to improve supportive supervision of LHWs Lady Health Workers.  Glad now I am making positive contibutions in US working for NARA Northwest.
 
 
 ![Screenshot (8262)](https://github.com/user-attachments/assets/f76b0405-5ee4-44a4-b63f-27fc31b9e8db)
